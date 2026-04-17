@@ -142,5 +142,6 @@ The framework evaluates performance based on three core pillars:
 ## 👤 Author
 
 **Vijay Kumar Gupta**
+
 Research Intern | Samsung R&D Institute India
 Electronics and Communication Engineering | RV College of Engineering
